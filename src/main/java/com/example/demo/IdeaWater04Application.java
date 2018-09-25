@@ -8,5 +8,6 @@ public class IdeaWater04Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(IdeaWater04Application.class, args);
+
 	}
 }
